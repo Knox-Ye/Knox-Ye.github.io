@@ -6,7 +6,7 @@ layout: page
 
 
 
-![](/knox.jpg)
+<img src="https://knox-ye.github.io/knox.jpg" class="floatpic">
 
 
 
