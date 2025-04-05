@@ -314,18 +314,7 @@ html{background-color:#ffffff;font-family:'PT Serif',serif;font-color:#333332;fo
 /* .footer-wrap a,.footer-wrap a:active,.footer-wrap a:visited,.footer-wrap p,.footer-wrap h4,.footer-wrap h5,.footer-wrap h6{color:#bfbfbf;} */
 /* .footer-wrap a{border-bottom:0 solid transparent;}.footer-wrap a:hover{color:#ffffff;border-bottom:0 solid transparent;} */
 /* .footer-wrap footer{display:inline;float:left;width:83.33333333333334%;margin-left:8.333333333333334%;margin-right:8.333333333333334%;} */
-/* 完全隐藏页脚 */
 .footer-wrap {
-    display: none !important;
-    height: 0 !important;
-    padding: 0 !important;
-    margin: 0 !important;
-}
-
-/* 清除伪元素 */
-.footer-wrap:before,
-.footer-wrap:after {
-    content: none !important;
     display: none !important;
 }
 

@@ -2,11 +2,13 @@
 layout: page
 ---
 
-# About
+## About
 
 
 
-Just a rookie programmer, I'm **Knox**.  <br>
+
+
+Just a rookie programmer, I'm **Knox**.  
 
 HF guys!
 
