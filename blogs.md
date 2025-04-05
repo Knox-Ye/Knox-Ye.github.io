@@ -10,5 +10,7 @@ title: Blogs
 
 [我的第一个博客](https://knox-ye.github.io/blogs/first_blog/)
 
+[starEhancer笔记](https://knox-ye.github.io/blogs/starEhancer/)
+
 
 
