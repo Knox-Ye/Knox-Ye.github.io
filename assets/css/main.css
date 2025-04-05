@@ -329,6 +329,15 @@ html{background-color:#ffffff;font-family:'PT Serif',serif;font-color:#333332;fo
     display: none !important;
 }
 
+.post-meta {
+  color: #666;
+  font-size: 0.9em;
+  margin-bottom: 1em;
+  time {
+    font-family: monospace;
+  }
+}
+
 .related-articles{display:inline;float:left;width:83.33333333333334%;margin-left:8.333333333333334%;margin-right:8.333333333333334%;}.related-articles h4{font-size:21px;font-size:1.1666666666666667rem;margin-bottom:1.4142857142857141rem;text-transform:uppercase;margin-bottom:0;}
 .related-articles li{margin-bottom:0;color:#ffffff;}
 .footer-icons li{display:inline-block;padding-right:5px;}.footer-icons li a{font-size:24px;font-size:1.3333333333333333rem;margin-bottom:1.2375rem;color:#9a9a9a;-webkit-transition:0.4s linear;-moz-transition:0.4s linear;-ms-transition:0.4s linear;-o-transition:0.4s linear;transition:0.4s linear;}.footer-icons li a:hover{text-decoration:none;border-bottom:none;}.footer-icons li a:hover .icon-twitter,.footer-icons li a:hover .icon-twitter-sign{color:#2aa9df;}
