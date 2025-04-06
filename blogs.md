@@ -4,13 +4,15 @@ permalink: /blogs/index.html
 title: Blogs
 ---
 
-# Chinese Blogs 中文博客
+# BLOGS
 
 <br>
 
-[我的第一个博客](https://knox-ye.github.io/blogs/first_blog/)
+[starEhancer笔记](https://knox-ye.github.io/blogs/starEhancer/)<br>
 
-[starEhancer笔记](https://knox-ye.github.io/blogs/starEhancer/)
+[我的第一个博客](https://knox-ye.github.io/blogs/first_blog/)<br>
+
+
 
 
 
